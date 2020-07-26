@@ -234,6 +234,7 @@ h3.flextex{
     font-size: 30px;
     text-align: center;
     font-weight: bold;
+    z-index: -1;
 }
 
 .figs{
